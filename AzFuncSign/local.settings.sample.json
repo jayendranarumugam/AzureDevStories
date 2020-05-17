@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsCosmosDBConnectionString": "AccountEndpoint=https://myproduct.documents.azure.com:443/;AccountKey=ps57B4M5JtzB39Aa0n72BHNWkZWlRZ8AVFferNvGOJfrcmdfRYuqAgGdypHPtvDEoWjbiTp3FKQqb2WDq9aQaQ==;",
+    "AzureSignalRConnectionString": "Endpoint=https://cosmossignalr.service.signalr.net;AccessKey=o594aDedNjpsDHwzlVDZu9hG4fpIbvycoAwt8Rej2b4=;Version=1.0;",
+    "AzureWebJobsStorage":"DefaultEndpointsProtocol=https;AccountName=storageaccountfunctac04;AccountKey=QOJMQfIuzeAZwInrc8eHwq/cUhQIEQnOVkuOCgqorieowynKpDNZjoXaBwry0lE+bFv7jiFvgVEWeYF/nJBhgg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "HOME":"C:\\Jay\\works\\AzFuncSign"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*"
+  }
+
+}

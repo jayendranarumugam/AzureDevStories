@@ -1,0 +1,19 @@
+{
+    "disabled": false,
+    "bindings": [
+      {
+        "type": "cosmosDBTrigger",
+        "name": "updatedItems",
+        "direction": "in",
+        "databaseName": "MyProductDB",
+        "collectionName": "Items",
+        "feedPollDelay": 1000
+      },
+      {
+        "type": "signalR",
+        "name": "signalRMessages",
+        "hubName": "SignalRHubItems",
+        "direction": "out"
+      }
+    ]
+  }
