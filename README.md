@@ -14,14 +14,15 @@
 - Logic Apps
 - AzureDevOps WorkItems
 - Cosmos DB
-- Azure Functions
 - Signal R
+- Azure Functions
 
 ### Yammer 
 
 Users provide their feedback about the product. It could be many, for the demo purpose I just choose 2 topics *(Bug, Feature)*
 
-![](./Images/Yammer_Post.jpg)
+![](./Images/Yammer_Post1.jpg)
+![](./Images/Yammer_Post2.jpg)
 
 ### LUIS
 
@@ -49,6 +50,12 @@ Insert the document in Cosmos DB if the top intent of the Post is *None*
 
 ![](./Images/CosmosDB.jpg)
 
+### Signal R
+
+Serverless Signal R used to autorefresh the WebPage for the Live updates of the *None* intent
+
+![](./Images/SignalR.JPG)
+
 
 ### AzureFunction
 
@@ -61,11 +68,7 @@ Static WebPage with Live CosmosDB Feed for *None* intent which is used to retrai
 ![](./Images/AzFunction_CosmosLiveFeed.JPG)
 
 
-### Signal R
 
-Serverless Signal R used to autorefresh the WebPage for the Live updates of the *None* intent
-
-![](./Images/SignalR.JPG)
 
 
 
