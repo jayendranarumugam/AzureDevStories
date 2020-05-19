@@ -22,9 +22,9 @@
 Users provide their feedback about the product. It could be many, for the demo purpose I just choose 2 topics *(Bug, Feature)*
 
 
- <img src='Images/Yammer_Post1.jpg'/>
+ <img src='Images/Yammer_Post1.JPG'/>
 
- <img src='Images/Yammer_Post2.jpg'/>
+ <img src='Images/Yammer_Post2.JPG'/>
 
 
 ### LUIS
@@ -32,13 +32,13 @@ Users provide their feedback about the product. It could be many, for the demo p
 Creating Intents for Bugs and Feedbacks in the LUIS.
 
 
-<img src='Images/LUIS.jpg'/>
+<img src='Images/LUIS.JPG'/>
 
 ### Logic Apps
 
 Predicting the Intents i.e, Bug or Feedback based on the Yammer Post by the user and take necessary actions
 
-<img src='Images/LogicApp.jpg'/>
+<img src='Images/LogicApp.JPG'/>
 
 ### AzureDevOps WorkItems
 
@@ -52,7 +52,7 @@ Create Bug/Feature if the top intent of the Post matched with LUIS
 
 Insert the document in Cosmos DB if the top intent of the Post is *None*
 
-<img src='Images/CosmosDB.jpg'/>
+<img src='Images/CosmosDB.JPG'/>
 
 ### Signal R
 
