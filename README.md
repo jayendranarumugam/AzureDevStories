@@ -26,6 +26,8 @@ Users provide their feedback about the product. It could be many, for the demo p
 
  <img src='Images/Yammer_Post2.JPG'/>
 
+ <img src='Images/Yammer_Post3.JPG'/>
+
 
 ### LUIS
 
@@ -63,11 +65,11 @@ Serverless Signal R used to autorefresh the WebPage for the Live updates of the 
 
 ### AzureFunction
 
-Azure Function Integrated with Cosmos Change feed and provide live Updates in the static Web Page with the help of Signal R
+Azure Function Integrated with Cosmos Change feed and provide live Updates in the static Web Page with the help of Signal R.
 
 ![](./Images/AzFunction.JPG)
 
-Static WebPage with Live CosmosDB Feed for *None* intent which is used to retrain the *LUIS* 
+Static WebPage with Live CosmosDB Feed for *None* intent which helps the developers to take necessary action like *re-train the LUIS model with additional utterances* or *create new intents/entites*
 
 ![](./Images/AzFunction_CosmosLiveFeed.JPG)
 
