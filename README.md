@@ -1,5 +1,7 @@
 # Serverless Prediction of a Product Feedback (#AzureDevStories)
+This Project is created as a part of [Azure Dev Stories Challenge](https://devstories.konfhub.com/) and won the [First Prize](https://devstories.konfhub.com/#winners) 🏆
 
+I've published a detailed article about this project in the [Dev Community](https://dev.to/jayendran/serverless-prediction-of-a-product-feedback-3o7h)
 
 ## Architecture Diagram
 
